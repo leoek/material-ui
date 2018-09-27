@@ -1,6 +1,6 @@
 {
-  "name": "@material-ui/core",
-  "private": true,
+  "name": "leoek-material-ui-core",
+  "private": false,
   "author": "Material-UI Team",
   "version": "3.1.1",
   "description": "React components that implement Google's Material Design.",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git"
+    "url": "https://github.com/leoek/material-ui.git"
   },
   "license": "MIT",
   "bugs": {
