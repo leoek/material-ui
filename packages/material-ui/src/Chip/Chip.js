@@ -459,7 +459,7 @@ Chip.propTypes = {
   /**
    * The variant to use.
    */
-  variant: PropTypes.oneOf(['default', 'outlined']),
+  variant: PropTypes.oneOf(['default', 'outlined', 'contained']),
 };
 
 Chip.defaultProps = {
